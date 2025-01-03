@@ -1,0 +1,112 @@
+.logo-header img{
+    width: 22%;
+    height: 120px;
+    margin-left: 30px;
+    padding-bottom: 10px;
+}
+
+.search {
+    margin-top: 40px;
+}
+
+.other {
+    margin-top: 22px;
+    text-align: center;
+}
+
+.navbar-css {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.left-content {
+    border: 3px solid #0EC0C3;
+    margin-left: 15px;
+    margin-bottom: 20px;
+    color: #0EC0C3;
+    padding-bottom: 15px;
+}
+
+.left-content p{
+    margin-left: 10px;
+    color: black;
+}
+
+.hinhanh img {
+    width: 8%;
+    margin-right: 10px;
+}
+
+.hinhanh {
+    background-color: #E0EDEC;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 15px;
+    margin-top: 0px;
+}
+
+.anh-right img {
+    width: 100%;
+}
+
+.famous {
+    text-align: center;
+    border: 1px solid #D3D4D0;
+    margin: 10px 10px;
+    width: 100%;
+    margin-left: 0px;
+    color: #0EC0C3;
+    box-shadow: 0px 1px 5px 0px black;
+}
+
+.content-2 {
+    display: flex;
+    border: 1px solid #D3D4D0;
+    box-shadow: 0px 1px 5px 0px black;
+    padding: 10px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.content-2 img {
+    width: 400px;
+    height: 340px;
+}
+
+.content2 h2{
+    margin-top: 0px;
+    color: #0EC0C3;
+}
+
+.content2 {
+    margin-top: 0px;
+    margin: 30px;
+}
+
+.content2 p {
+    text-align: justify;
+    font-size: 20px;
+}
+
+.content2 h4 {
+    color: #E56E2F;
+}
+
+.booknow {
+    padding: 15px;
+    margin-left: 530px;
+    font-size: medium;
+    text-align: center;
+    background-color: #11B1E4;
+    color: white;
+    border-radius: 10px;
+}
+
+.end {
+    width: 100%;
+    text-align: center;
+    color: white;
+    background-color: #0EC0C3;
+    padding: 10px;
+}
